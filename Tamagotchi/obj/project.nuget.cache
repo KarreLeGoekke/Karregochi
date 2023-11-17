@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LS78HFg1AY7FPZ+khY19zj8hJuI0VrH0coctyLQYZ+xmchrq2MSDCLe0mDhPu2y1GFUab4nZoQQgWqJbguecsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadir\\Documents\\Programming\\Tamagotchi\\Tamagotchi\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadir\\.nuget\\packages\\raylib\\4.5.0\\raylib.4.5.0.nupkg.sha512",
+    "C:\\Users\\kadir\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\kadir\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
